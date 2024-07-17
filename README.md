@@ -271,9 +271,9 @@ long result = BigNumberMultiplication.Big_Number_Multi(X, Y, N);
 Console.WriteLine($"Kết quả của {X} * {Y} là {result}");
 </code></pre>
 <h3>Video debug</h3>
-<p><a href="https://www.example.com/binary_search_video" target="_blank">Xem video hướng dẫn Binary Search</a></p>
-<p><a href="https://www.example.com/merge_sort_video" target="_blank">Xem video hướng dẫn Merge Sort</a></p>
-<p><a href="https://www.example.com/big_number_multiplication_video" target="_blank">Xem video hướng dẫn Big Number Multiplication</a></p>
+<p><a href="https://www.example.com/binary_search_video" target="_blank">Xem video debug Binary Search</a></p>
+<p><a href="https://www.example.com/merge_sort_video" target="_blank">Xem video debug Merge Sort</a></p>
+<p><a href="https://www.example.com/big_number_multiplication_video" target="_blank">Xem video debug Big Number Multiplication</a></p>
 
 </body>
 </html>
