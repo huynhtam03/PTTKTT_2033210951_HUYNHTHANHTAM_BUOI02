@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>Báo cáo các bước của thuật toán nhân số lớn, Binary Search và Merge Sort</h1>
+<h1>Thuật toán nhân số lớn, Binary Search và Merge Sort</h1>
 
 <p>Báo cáo này mô tả chi tiết các bước của ba thuật toán được thực hiện bằng ngôn ngữ lập trình C#.</p>
 
@@ -25,6 +25,8 @@
 
 <p>Thuật toán Binary Search là một thuật toán tìm kiếm hiệu quả trên mảng đã được sắp xếp.</p>
 <p>Thuật toán Merge Sort là một thuật toán sắp xếp dựa trên phương pháp chia để trị.</p>
+<p>Thuật toán Big Number Multiplication là một thuật toán dùng để nhân các số nguyên lớn.</p>
+
 
 <h2 id="binary-search">Binary Search</h2>
 
@@ -152,7 +154,10 @@ namespace Cau02
 
 
 <h3>Video DEBUG</h3>
-<a href="https://github.com/user-attachments/assets/bd92fcc6-9089-4ada-b529-4f8bc81661dc">Xem video DEBUG Merge Sort</a>
+
+
+<a href="https://github.com/user-attachments/assets/d7bfbb92-ad51-4881-95c0-5d0d0f4b6715">Xem video DEBUG MergeSort</a>
+
 
 <h2 id="big-number-multiplication">Thuật toán nhân số lớn</h2>
 
@@ -223,6 +228,7 @@ public class BigNumberMultiplication
 <img src="https://github.com/user-attachments/assets/02dcaf95-6537-42c3-913c-5431513fb754" alt="step4">
 
 <h3>Video DEBUG </h3>
+
 <a href="https://github.com/user-attachments/assets/fa69ca7c-ddc7-48a5-b9d4-0dd14e04e1cb">Xem video DEBUG Big Number Multip</a>
 
 
