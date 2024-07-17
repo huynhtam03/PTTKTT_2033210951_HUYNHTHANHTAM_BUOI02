@@ -1,0 +1,14 @@
+E:\Buoi02_PTTKTT\bin\Debug\net7.0\Buoi02_PTTKTT.exe
+E:\Buoi02_PTTKTT\bin\Debug\net7.0\Buoi02_PTTKTT.deps.json
+E:\Buoi02_PTTKTT\bin\Debug\net7.0\Buoi02_PTTKTT.runtimeconfig.json
+E:\Buoi02_PTTKTT\bin\Debug\net7.0\Buoi02_PTTKTT.dll
+E:\Buoi02_PTTKTT\bin\Debug\net7.0\Buoi02_PTTKTT.pdb
+E:\Buoi02_PTTKTT\obj\Debug\net7.0\Buoi02_PTTKTT.GeneratedMSBuildEditorConfig.editorconfig
+E:\Buoi02_PTTKTT\obj\Debug\net7.0\Buoi02_PTTKTT.AssemblyInfoInputs.cache
+E:\Buoi02_PTTKTT\obj\Debug\net7.0\Buoi02_PTTKTT.AssemblyInfo.cs
+E:\Buoi02_PTTKTT\obj\Debug\net7.0\Buoi02_PTTKTT.csproj.CoreCompileInputs.cache
+E:\Buoi02_PTTKTT\obj\Debug\net7.0\Buoi02_PTTKTT.dll
+E:\Buoi02_PTTKTT\obj\Debug\net7.0\refint\Buoi02_PTTKTT.dll
+E:\Buoi02_PTTKTT\obj\Debug\net7.0\Buoi02_PTTKTT.pdb
+E:\Buoi02_PTTKTT\obj\Debug\net7.0\Buoi02_PTTKTT.genruntimeconfig.cache
+E:\Buoi02_PTTKTT\obj\Debug\net7.0\ref\Buoi02_PTTKTT.dll

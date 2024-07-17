@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Buoi02_PTTKTT/1.0.0": {
+        "runtime": {
+          "Buoi02_PTTKTT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Buoi02_PTTKTT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
